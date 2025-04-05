@@ -1,0 +1,11 @@
+# Hello World Repository
+
+This is a simple repository containing a "Hello World" example. It serves as a basic starting point for understanding or demonstrating simple concepts.
+
+## Usage
+
+Feel free to explore, modify, and use this repository as needed.
+
+## License
+
+This project is open-source and available under the MIT License.
